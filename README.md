@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anderson%20Amaya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Soporte%20TI%20%C2%B7%20Desarrollo%20web%20%C2%B7%20Ciberseguridad&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Anderson Amaya" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+en+Ciencias+de+la+Computaci%C3%B3n;Pasante+de+Mesa+de+Servicio+en+GBM;Camino+a+la+seguridad+de+la+informaci%C3%B3n" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&height=45&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n;Pasante+de+Mesa+de+Servicio+en+GBM;Camino+a+la+ciberseguridad" alt="Texto animado" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/anderson-ezequiel-amaya-canales-4841863b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/San%20Salvador-El%20Salvador-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+<img src="https://img.shields.io/badge/San%20Salvador,%20El%20Salvador-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
 <img src="https://komarev.com/ghpvc/?username=ezecanales&style=for-the-badge&color=2c5364&label=VISITAS" alt="Visitas al perfil" />
 
 </div>
