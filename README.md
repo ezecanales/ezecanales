@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezecanales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=ezecanales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" height="165" alt="Estadísticas de GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezecanales&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com?user=ezecanales&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
