@@ -26,23 +26,14 @@
 
 ## Proyectos destacados
 
-<div align="center">
-
-<a href="https://github.com/jonatanooo/The-Outfit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonatanooo&repo=The-Outfit&theme=tokyonight&hide_border=true&show_owner=true" alt="The-Outfit" /></a>
-<a href="https://github.com/jonatanooo/The-Outfit-Mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonatanooo&repo=The-Outfit-Mobile&theme=tokyonight&hide_border=true&show_owner=true" alt="The-Outfit-Mobile" /></a>
-<a href="https://github.com/jonatanooo/POKEMON-BANK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonatanooo&repo=POKEMON-BANK&theme=tokyonight&hide_border=true&show_owner=true" alt="POKEMON-BANK" /></a>
-<a href="https://github.com/ezecanales/Lic-Proyecto-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ezecanales&repo=Lic-Proyecto-1&theme=tokyonight&hide_border=true" alt="Lic-Proyecto-1" /></a>
-
-</div>
-
 | Proyecto | Qué es | Mi aporte |
 |---|---|---|
-| **The-Outfit** | Tienda de ropa en línea · Next.js, React, Supabase | Carrito y checkout, rutas protegidas por rol, políticas RLS, restablecimiento de contraseña, páginas de empleados y reportes |
-| **The-Outfit-Mobile** | App móvil de la tienda · React Native (Expo), Firebase | Login con Google en Android, perfil, carrito y pago, historial de pedidos, manual de ejecución |
-| **POKEMON-BANK** | Simulador de cajero automático · Next.js, Supabase | Conexión con tablas y procedimientos almacenados, movimientos, depósito con PIN |
-| **Lic-Proyecto-1** | App de presupuesto mensual · JavaScript | Proyecto individual |
-| **proyectofinal** | Plataforma de reseñas con usuarios y panel de admin · PHP, MySQL | Proyecto individual |
-| **CRUD** | Gestión de juegos y consolas · PHP, MySQL | Proyecto individual |
+| [**The-Outfit**](https://github.com/jonatanooo/The-Outfit) | Tienda de ropa en línea · Next.js, React, Supabase | Carrito y checkout, rutas protegidas por rol, políticas RLS, restablecimiento de contraseña, páginas de empleados y reportes |
+| [**The-Outfit-Mobile**](https://github.com/jonatanooo/The-Outfit-Mobile) | App móvil de la tienda · React Native (Expo), Firebase | Login con Google en Android, perfil, carrito y pago, historial de pedidos, manual de ejecución |
+| [**POKEMON-BANK**](https://github.com/jonatanooo/POKEMON-BANK) | Simulador de cajero automático · Next.js, Supabase | Conexión con tablas y procedimientos almacenados, movimientos, depósito con PIN |
+| [**Lic-Proyecto-1**](https://github.com/ezecanales/Lic-Proyecto-1) | App de presupuesto mensual · JavaScript | Proyecto individual |
+| [**proyectofinal**](https://github.com/ezecanales/proyectofinal) | Plataforma de reseñas con usuarios y panel de admin · PHP, MySQL | Proyecto individual |
+| [**CRUD**](https://github.com/ezecanales/CRUD) | Gestión de juegos y consolas · PHP, MySQL | Proyecto individual |
 
 ---
 
